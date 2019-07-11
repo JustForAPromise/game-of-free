@@ -27,7 +27,7 @@ public class AuthorizeController {
         }
 
         JSONObject jsonObject = new JSONObject();
-        //验证用户名和密码不能为空
+            //验证用户名和密码不能为空
         if (StringUtils.isBlank(userName) || StringUtils.isBlank(password)) {
             jsonObject.put("status", false);
             jsonObject.put("msg", "用户名和密码不能为空");

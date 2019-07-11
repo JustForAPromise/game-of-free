@@ -1,16 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="885c9cb0-3f04-4a8d-a35f-49b874b520ee" name="Default Changelist" comment="" />
+    <list default="true" id="375f34da-2307-4974-b13e-b5d51451c7a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idlewow-facade/src/main/java/com/idlewow/admin/model/SysAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idlewow-facade/src/main/java/com/idlewow/common/model/BaseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idlewow-rms/src/main/java/com/idlewow/rms/controller/AuthorizeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/authorize.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-core/idlewow-core.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-core/target/idlewow-core-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-core/target/idlewow-core-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-core/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-core/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-doc/target/idlewow-doc-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-doc/target/idlewow-doc-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-doc/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-doc/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-facade/idlewow-facade.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-facade/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-facade/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-facade/target/idlewow-facade-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-facade/target/idlewow-facade-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-facade/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-facade/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-facade/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-facade/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-game/idlewow-game.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-game/src/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-game/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-game/target/idlewow-game-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-game/target/idlewow-game-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-game/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-game/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-hessianserver/idlewow-hessianserver.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-hessianserver/src/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-hessianserver/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-hessianserver/target/idlewow-hessianserver-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-hessianserver/target/idlewow-hessianserver-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-hessianserver/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-hessianserver/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/idlewow-rms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/css/font.css" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/css/font.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/css/theme1.css" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/css/theme1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/css/theme2.css" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/css/theme2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/css/theme3.css" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/css/theme3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/css/theme4.css" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/css/theme4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/css/theme5.css" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/css/theme5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/css/xadmin.css" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/css/xadmin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/fonts/iconfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/fonts/iconfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/fonts/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/fonts/iconfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/fonts/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/fonts/iconfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/fonts/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/fonts/iconfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/images/aiwrap.png" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/images/aiwrap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/images/bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/images/bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/js/xadmin.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/js/xadmin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/js/xcity.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/js/xcity.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/css/layui.css" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/css/layui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/css/layui.mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/css/layui.mobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/css/modules/code.css" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/css/modules/code.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/css/modules/laydate/default/laydate.css" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/css/modules/layer/default/icon-ext.png" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/css/modules/layer/default/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/css/modules/layer/default/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/css/modules/layer/default/layer.css" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/css/modules/layer/default/loading-0.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/css/modules/layer/default/loading-1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/css/modules/layer/default/loading-2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/font/iconfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/font/iconfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/font/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/font/iconfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/font/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/font/iconfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/font/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/font/iconfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/0.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/0.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/10.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/10.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/11.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/11.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/12.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/12.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/13.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/13.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/14.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/14.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/15.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/15.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/16.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/16.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/17.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/17.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/18.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/18.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/19.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/19.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/20.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/20.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/21.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/21.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/22.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/22.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/23.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/23.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/24.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/24.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/25.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/25.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/26.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/26.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/27.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/27.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/28.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/28.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/29.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/29.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/3.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/30.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/30.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/31.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/31.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/32.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/32.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/33.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/33.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/34.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/34.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/35.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/35.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/36.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/36.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/37.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/37.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/38.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/38.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/39.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/39.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/4.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/40.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/40.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/41.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/41.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/42.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/42.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/43.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/43.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/44.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/44.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/45.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/45.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/46.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/46.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/47.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/47.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/48.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/48.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/49.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/49.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/5.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/50.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/50.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/51.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/51.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/52.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/52.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/53.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/53.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/54.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/54.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/55.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/55.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/56.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/56.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/57.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/57.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/58.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/58.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/59.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/59.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/6.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/6.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/60.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/60.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/61.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/61.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/62.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/62.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/63.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/63.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/64.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/64.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/65.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/65.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/66.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/66.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/67.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/67.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/68.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/68.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/69.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/69.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/7.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/7.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/70.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/70.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/71.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/71.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/8.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/8.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/images/face/9.gif" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/images/face/9.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/colorpicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/colorpicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/flow.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/flow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/laydate.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/laydate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/layedit.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/layedit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/layer.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/layer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/laypage.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/laypage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/laytpl.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/mobile.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/mobile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/rate.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/rate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/slider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/tree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/upload.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/upload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/lay/modules/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/lay/modules/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/layui.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/layui.all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/src/webapp/lib/layui/layui.js" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/src/main/webapp/lib/layui/layui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/target/idlewow-rms-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/target/idlewow-rms-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-rms/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-rms/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-util/idlewow-util.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-util/target/idlewow-util-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-util/target/idlewow-util-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow-util/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/idlewow-util/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idlewow.iml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/idlewow-game/target/" />
-    <ignored path="$PROJECT_DIR$/idlewow-hessianserver/target/" />
     <ignored path="$PROJECT_DIR$/idlewow-doc/target/" />
-    <ignored path="$PROJECT_DIR$/idlewow-core/target/" />
-    <ignored path="$PROJECT_DIR$/idlewow-rms/target/" />
-    <ignored path="$PROJECT_DIR$/idlewow-util/target/" />
     <ignored path="$PROJECT_DIR$/idlewow-facade/target/" />
+    <ignored path="$PROJECT_DIR$/idlewow-rms/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/idlewow-hessianserver/target/" />
+    <ignored path="$PROJECT_DIR$/idlewow-util/target/" />
+    <ignored path="$PROJECT_DIR$/idlewow-game/target/" />
+    <ignored path="$PROJECT_DIR$/idlewow-core/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,34 +184,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/idlewow-rms/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-149">
+              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/idlewow-rms/src/main/resources/spring/spring-mvc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="247">
+              <caret line="13" column="72" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/idlewow-rms/src/main/resources/spring/dataSource.xml">
+        <entry file="file://$PROJECT_DIR$/idlewow-rms/src/main/java/com/idlewow/rms/controller/AuthorizeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+            <state relative-caret-position="76">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/idlewow-rms/src/main/resources/spring/applicationContext.xml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/idlewow-rms/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
+            <state relative-caret-position="465">
+              <caret line="116" column="12" lean-forward="true" selection-start-line="116" selection-start-column="12" selection-end-line="116" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -58,33 +238,43 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/idlewow-doc/pom.xml" />
-        <option value="$PROJECT_DIR$/idlewow-hessianserver/pom.xml" />
-        <option value="$PROJECT_DIR$/idlewow-game/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/idlewow-core/pom.xml" />
+        <option value="$PROJECT_DIR$/idlewow-rms/src/main/java/com/idlewow/common/model/BaseModel.java" />
+        <option value="$PROJECT_DIR$/idlewow-facade/src/main/java/com/idlewow/admin/model/SysAdmin.java" />
+        <option value="$PROJECT_DIR$/idlewow-rms/src/webapp/login.html" />
+        <option value="$PROJECT_DIR$/idlewow-rms/src/webapp/authorize.jsp" />
+        <option value="$PROJECT_DIR$/idlewow-rms/src/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/idlewow-rms/src/main/java/com/idlewow/rms/controller/AuthorizeController.java" />
+        <option value="$PROJECT_DIR$/idlewow-facade/pom.xml" />
         <option value="$PROJECT_DIR$/idlewow-rms/pom.xml" />
-        <option value="$PROJECT_DIR$/idlewow-rms/src/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/idlewow-rms/src/resources/spring/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/idlewow-rms/src/main/resources/spring/spring-mvc.xml" />
-        <option value="$PROJECT_DIR$/idlewow-rms/src/main/resources/spring/dataSource.xml" />
-        <option value="$PROJECT_DIR$/idlewow-rms/src/main/resources/properties/jdbc.properties" />
-        <option value="$PROJECT_DIR$/doc/后台模板文件下载地址" />
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="idlewow-rms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="idlewow-rms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="idlewow-rms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="tomcat7" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="15" />
-    <option name="y" value="20" />
-    <option name="width" value="1171" />
-    <option name="height" value="784" />
+    <option name="x" value="81" />
+    <option name="width" value="1476" />
+    <option name="height" value="860" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -121,6 +311,40 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="idlewow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idlewow" type="462c0819:PsiDirectoryNode" />
+              <item name="idlewow-rms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idlewow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idlewow" type="462c0819:PsiDirectoryNode" />
+              <item name="idlewow-rms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="properties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idlewow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idlewow" type="462c0819:PsiDirectoryNode" />
+              <item name="idlewow-rms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idlewow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idlewow" type="462c0819:PsiDirectoryNode" />
+              <item name="idlewow-rms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -134,18 +358,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.40574712" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\mygit\idlewow\idlewow-rms\src\main\resources" />
-      <recent name="E:\mygit\idlewow\idlewow-rms\src" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\mygit\idlewow\idlewow-game\src\webapp\WEB-INF" />
+      <recent name="E:\gameGit\idlewow\idlewow-game\src\main" />
+      <recent name="E:\gameGit\idlewow\idlewow-hessianserver\src\main" />
+      <recent name="E:\gameGit\idlewow\idlewow-rms\src\main" />
+      <recent name="E:\gameGit\idlewow\idlewow-rms" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -160,8 +382,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="idlewow" type="MavenRunConfiguration" factoryName="Maven">
+  <component name="RunManager" selected="Maven.idlewow-rms">
+    <configuration name="idlewow-rms" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="true" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/idlewow-rms" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="idlewow打包" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -187,171 +434,217 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.43" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_idlewow" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64456" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.idlewow打包" />
+      <item itemvalue="Maven.idlewow-rms" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="885c9cb0-3f04-4a8d-a35f-49b874b520ee" name="Default Changelist" comment="" />
-      <created>1562830836401</created>
+      <changelist id="375f34da-2307-4974-b13e-b5d51451c7a3" name="Default Changelist" comment="" />
+      <created>1562834649537</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562830836401</updated>
-      <workItem from="1562830839263" duration="16000" />
-      <workItem from="1562830900962" duration="1921000" />
+      <updated>1562834649537</updated>
+      <workItem from="1562834652096" duration="2755000" />
     </task>
-    <task id="LOCAL-00001" summary="2019/7/11 后台搭建 未结束  RMS">
-      <created>1562832809558</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1562832809558</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1937000" />
+    <option name="totallyTimeSpent" value="2755000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="15" y="20" width="1171" height="784" extended-state="0" />
+    <frame x="200" y="7" width="1403" height="784" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37623763" />
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29411766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.32872504" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.67588323" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.359447" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.38863286" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Maven" weight="0.3298585" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019/7/11 后台搭建 未结束  RMS" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019/7/11 后台搭建 未结束  RMS" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/idlewow-util/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idlewow-doc/pom.xml">
+    <entry file="file://$PROJECT_DIR$/idlewow-rms/src/main/webapp/authorize.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="209">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idlewow-facade/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idlewow-hessianserver/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idlewow-game/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idlewow-game/src/webapp/WEB-INF/src/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idlewow-hessianserver/src/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idlewow-game/src/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/idlewow-core/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        <state relative-caret-position="-339" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idlewow-facade/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/idlewow-facade/src/main/java/com/idlewow/admin/model/SysAdmin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+        <state relative-caret-position="171">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/idlewow-rms/src/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/idlewow-facade/src/main/java/com/idlewow/common/model/BaseModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="46" column="22" lean-forward="true" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+        <state relative-caret-position="266">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idlewow-rms/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="351" column="7" selection-start-line="351" selection-start-column="7" selection-end-line="351" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idlewow-rms/src/main/webapp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#input#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idlewow-rms/src/main/resources/spring/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idlewow-rms/src/main/resources/spring/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="72" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idlewow-rms/src/main/java/com/idlewow/rms/controller/AuthorizeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idlewow-rms/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-149">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/idlewow-rms/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="81" column="50" selection-start-line="81" selection-start-column="50" selection-end-line="81" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idlewow-rms/src/main/resources/spring/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="33" column="56" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idlewow-rms/src/main/resources/properties/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idlewow-rms/src/main/resources/spring/dataSource.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/后台模板文件下载地址">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idlewow-rms/src/main/resources/spring/spring-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="465">
+          <caret line="116" column="12" lean-forward="true" selection-start-line="116" selection-start-column="12" selection-end-line="116" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -364,7 +657,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.40574712" />
               </list>
             </option>
           </splitter-proportions>
@@ -372,10 +665,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.40574712" />
               </list>
             </option>
           </splitter-proportions>
@@ -386,7 +680,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.40574712" />
               </list>
             </option>
           </splitter-proportions>
@@ -394,10 +688,11 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.40574712" />
               </list>
             </option>
           </splitter-proportions>
@@ -405,11 +700,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>idlewow-rms</last-edited>
+          <last-edited>idlewow</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.40574712" />
                 <option value="0.6" />
               </list>
             </option>
@@ -418,10 +713,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.alibaba:fastjson:1.2.57</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.40574712" />
               </list>
             </option>
           </splitter-proportions>

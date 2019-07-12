@@ -1,0 +1,19 @@
+doc/502227-20190617163250836-1685343636.png
+
+上面的图片是整体的设计图
+
+我们将整个项目命名为idlewow，目前包含以下几个模块
+idlewow-facade,         jar包项目，供内部其他项目引用，主要定义模型类、接口类
+
+idlewow-core,           jar包项目，实现系统的主要业务逻辑以及对数据库的访问
+
+idlewow-hessianserver,  war包项目，将系统的接口暴露给其他内部项目
+
+idlewow-rms,            war包项目，是后台运营系统或叫资源管理系统，主要给GM使用，进行配置，
+                        rms模块本身不访问数据库，而是通过调用hessian接口，与底层数据进行交互
+
+idlewow-util,           jar包项目，主要实现一些工具类，供其它模块引用。
+
+idlewow-game,           war包项目，是web形式的游戏客户端，部分游戏逻辑写在此模块中，也通过hessian接口访问系统数据。
+
+idlewow-doc。           可以用来放置说明文件 无用 删除
